@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include erpnext_south_africa *.css
+recursive-include erpnext_south_africa *.csv
+recursive-include erpnext_south_africa *.html
+recursive-include erpnext_south_africa *.ico
+recursive-include erpnext_south_africa *.js
+recursive-include erpnext_south_africa *.json
+recursive-include erpnext_south_africa *.md
+recursive-include erpnext_south_africa *.png
+recursive-include erpnext_south_africa *.py
+recursive-include erpnext_south_africa *.svg
+recursive-include erpnext_south_africa *.txt
+recursive-exclude erpnext_south_africa *.pyc
