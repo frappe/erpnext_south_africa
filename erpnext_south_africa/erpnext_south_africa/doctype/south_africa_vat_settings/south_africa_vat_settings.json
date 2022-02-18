@@ -1,7 +1,7 @@
 {
  "actions": [],
  "autoname": "field:company",
- "creation": "2021-07-08 22:34:33.668015",
+ "creation": "2022-02-17 23:29:45.198455",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
@@ -29,10 +29,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-07-14 02:17:52.476762",
+ "modified": "2022-02-18 03:17:22.878853",
  "modified_by": "Administrator",
- "module": "Regional",
+ "module": "ERPNext South Africa",
  "name": "South Africa VAT Settings",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
@@ -72,5 +73,6 @@
  "quick_entry": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
+ "states": [],
  "track_changes": 1
 }
